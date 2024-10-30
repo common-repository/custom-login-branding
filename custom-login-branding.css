@@ -1,0 +1,13 @@
+/*  This hides the WordPress logo. The height parameter also adjust where the 
+    first input or message box begins. 
+*/
+#login h1 a {
+background:url(./logo-login.gif) no-repeat top center;
+width:328px;
+height:84px;
+text-indent:-9999px;
+overflow:hidden;
+padding-bottom:15px;
+display:block;
+}
+
